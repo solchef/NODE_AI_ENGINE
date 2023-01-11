@@ -1,0 +1,34 @@
+{
+    "name": "aibotik",
+    "version": "1.0.0",
+    "description": "Noaibotik",
+    "type": "commonjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "aibotik"
+    ],
+    "author": "bezkoder",
+    "license": "ISC",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.17.1",
+        "gpt-3-encoder": "^1.1.3",
+        "i": "^0.3.7",
+        "jsonwebtoken": "^9.0.0",
+        "mongoose": "^5.12.10",
+        "node-fetch": "^3.3.0",
+        "nodemon": "^2.0.20",
+        "npm": "^9.2.0",
+        "openai": "^3.1.0",
+        "uuid": "^8.3.2",
+        "weaviate-client": "^2.14.2"
+    },
+    "devDependencies": {
+        "cross-env": "^7.0.3"
+    }
+}
